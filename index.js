@@ -24,3 +24,4 @@ function switchOnCharmFromTip(tip){
       response "Bye.";
    }
  }
+ response;
