@@ -14,8 +14,8 @@ function ternaryCheckCity(city){
   return (citydesired === city) ? `Ok, sounds good.` : `No go.`;
 }
  function switchOnCharmFromTip(){
-   const tip;
-   switch (tip){
+   
+   switch (){
      case 'generous':
       return "Thank you so much.";
      case "not as generous":
