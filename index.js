@@ -8,3 +8,8 @@ function scuberGreetingForFeet(ride){
     return "No can do.";
   }
 }
+
+function ternaryCheckCity(city){
+  const citydesired = 'NYC';
+  return (citydesired === city) ? `Ok, sounds good.` : `No go.`;
+}
